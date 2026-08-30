@@ -1,8 +1,8 @@
-# Retail Sales Analytics Dashboard
+# Retail Customer Intelligence & Sales Forecasting
 
 ## Overview
 
-This project demonstrates an end-to-end retail sales analysis using Python, Pandas, and Power BI.
+How can a retailer identify high-value customers, predict future sales, and improve customer retention using transaction data?
 
 ## Tools
 
