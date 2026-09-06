@@ -38,6 +38,49 @@ Online Retail Dataset from Kaggle.
 
 ![Products](images/dashboard3.png)
 
+## SQL Analysis
+
+The project uses PostgreSQL to perform analytical queries
+on the cleaned retail transaction dataset.
+
+### Data Quality
+- Missing-value analysis
+- Duplicate detection
+- Negative quantity checks
+- Invalid price checks
+
+### Sales Analysis
+- Total revenue
+- Monthly revenue
+- Revenue by country
+- Average order value
+
+### Customer Analysis
+- Customer revenue
+- Order frequency
+- Repeat customer rate
+- Customer ranking
+
+### Product Analysis
+- Top products by units sold
+- Top products by revenue
+- Product rankings by country
+
+### RFM Analysis
+- Customer recency
+- Purchase frequency
+- Monetary value
+- RFM scoring
+- Customer segmentation
+
+### Advanced SQL
+- CTEs
+- Window functions
+- RANK()
+- ROW_NUMBER()
+- NTILE()
+- LAG()
+
 ## Files
 
 - `notebook/retail_analysis.ipynb`
